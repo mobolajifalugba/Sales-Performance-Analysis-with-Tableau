@@ -1,2 +1,3 @@
 # Sales-Performance-Analysis-with-Tableau
-This repository contains data, dashboards, and insights for sales performance analysis using Tableau. Explore interactive visualizations and reports to gain actionable insights into the sales data, track key performance metrics, and make data-driven decisions to drive revenue growth and optimize sales strategy.
+![sp1](https://github.com/mobolajifalugba/Sales-Performance-Analysis-with-Tableau/assets/51162684/e840f929-6446-4d7e-aa82-cb304a3595fc)
+
